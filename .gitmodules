@@ -1,0 +1,3 @@
+[submodule "deps/droop"]
+	path = deps/droop
+	url = https://github.com/jklundell/droop.git
